@@ -47,3 +47,7 @@ All details about our internship
 -> Made the adjustments that were spoken about yesterday. Added new components and made further revisions in the Home page, and finalised it after getting it evaluated by HR.
 
 6/6/2024
+-> Had a meet with sir in which new task has been assigned for the admin panel.Had started working on that.
+
+7/6/2024 - 8/6/2024
+-> Included the requested components in the admin panel and had meet with HR for the review.
