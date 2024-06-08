@@ -45,3 +45,5 @@ All details about our internship
 
 4/6/2024 - 5/6/2024
 -> Made the adjustments that were spoken about yesterday. Added new components and made further revisions in the Home page, and finalised it after getting it evaluated by HR.
+
+6/6/2024
