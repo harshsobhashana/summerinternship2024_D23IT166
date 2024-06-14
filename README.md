@@ -52,4 +52,13 @@ This internship is for the software development role for "Web Technologies" doma
 -> Had a meet with sir in which new task has been assigned for the admin panel.Had started working on that.
 
 7/6/2024 - 8/6/2024
--> Included the requested components in the admin panel and had meet with HR for the review.
+-> Included the requested components in the admin panel and had meet with HR for the review.
+
+10/6/2024 - 11/6/2024
+-> Code was improved in accordance with the review that was received from the HR for any future adjustments
+
+12/6//2024
+-> Following a few minor adjustments, the HR department requested that the customer need the login and forgot password pages to be included.
+
+13/6/2024
+-> Had a last meeting with HR to go over all the updates and modifications and to complete the admin panel.
