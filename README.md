@@ -1,6 +1,8 @@
 # summerinternship2024_D23IT166
 All details about our internship 
 
+This internship is for the software development role for "Web Technologies" domain. It is 1 month internship. I have been assigned the task of developing the User panel and Admin panel in IOT in React.js .
+
 13/5/2024 - 14/5/2024
 -> Explored for the IOT-based project's user-side template on demand over the internet comprising both free and paid ones.
 
